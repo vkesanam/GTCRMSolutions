@@ -108,6 +108,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="CRMSharePointIntegration.aspx" />
+    <Content Include="GTlogo.jpg" />
     <Content Include="HtmlPage1.html" />
     <Content Include="LeadJS.js" />
     <Content Include="Signature.html" />
