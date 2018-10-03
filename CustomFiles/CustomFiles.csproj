@@ -112,6 +112,7 @@
     <Content Include="HtmlPage1.html" />
     <Content Include="LeadJS.js" />
     <Content Include="Signature.html" />
+    <Content Include="TestApplication.aspx" />
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />
   </ItemGroup>
@@ -124,6 +125,13 @@
       <DependentUpon>CRMSharePointIntegration.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestApplication.aspx.cs">
+      <DependentUpon>TestApplication.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TestApplication.aspx.designer.cs">
+      <DependentUpon>TestApplication.aspx</DependentUpon>
+    </Compile>
     <Compile Include="WebForm1.aspx.cs">
       <DependentUpon>WebForm1.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
