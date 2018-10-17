@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomFiles", "CustomFiles\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateQuote", "GenerateQuote\GenerateQuote.csproj", "{ABE93F5C-0EF7-431E-A45D-EB6F5697D21B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendProposalToClient", "SendProposalToClient\SendProposalToClient.csproj", "{A80FB25E-5999-429E-998E-C00245E3FA2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{ABE93F5C-0EF7-431E-A45D-EB6F5697D21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABE93F5C-0EF7-431E-A45D-EB6F5697D21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABE93F5C-0EF7-431E-A45D-EB6F5697D21B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A80FB25E-5999-429E-998E-C00245E3FA2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A80FB25E-5999-429E-998E-C00245E3FA2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A80FB25E-5999-429E-998E-C00245E3FA2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A80FB25E-5999-429E-998E-C00245E3FA2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
